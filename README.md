@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Filip
-- 👀 I’m interested in sport, I play rugby for 10 years, I love motorcycles and fishing. But I like to spend my holidays on a snowboat or sailing a yacht in Polish Mazury
-- 📱 I can create IOS applications in Swift.
-- 🌱 I’m currently learning C++, Python and html.
+- 👀 I’m interested in sport, I play rugby for 10 years, I love motorcycles and fishing. But I like to spend my holidays on a snowboard or sailing a yacht in Polish Mazury
+- 📱 I can create IOS applications in Swift
+- 🌱 I’m currently learning C++, Python and html
 - 💞️ I’m looking to collaborate on creating an application
 - 📫 How to reach me on e-mail filipskup231@gmail.com
