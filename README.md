@@ -1,5 +1,5 @@
 👋 Hi, I’m Filip
-🎓 I’m a 3rd-year student at Lublin University of Technology.
+🎓 I’m a 4rd-year student at Lublin University of Technology.
 📱 I create web applications in Django and mobile applications in SwiftUI.
 🌱 I’m currently learning machine learning in Python and React.
 💻 Additionally, I have experience with Java, C++, HTML, and CSS.
