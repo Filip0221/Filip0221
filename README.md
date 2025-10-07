@@ -1,4 +1,5 @@
 👋 Hi, I’m Filip
+🌐 I created and currently maintain the website formulasofmotherearth.com
 🎓 I’m a 4rd-year student at Lublin University of Technology.
 📱 I create web applications in Django and mobile applications in SwiftUI.
 🌱 I’m currently learning machine learning in Python and React.
