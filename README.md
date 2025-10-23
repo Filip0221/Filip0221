@@ -1,9 +1,43 @@
-👋 Hi, I’m Filip
-🌐 I created and currently maintain the website formulasofmotherearth.com
-🎓 I’m a 4rd-year student at Lublin University of Technology.
-📱 I create web applications in Django and mobile applications in SwiftUI.
-🌱 I’m currently learning machine learning in Python and React.
-💻 Additionally, I have experience with Java, C++, HTML, and CSS.
-💞️ I’m looking to collaborate on creating applications.
-👀 I’m interested in sports, I have been playing rugby for 10 years, I love motorcycles and fishing. But I like to spend my holidays snowboarding or sailing a yacht in the Polish Mazury.
-📫 How to reach me: e-mail filipskup231@gmail.com.
+# Hi there / Cześć!
+
+## Polski
+
+### Cześć, jestem Filip
+
+Stworzyłem i obecnie utrzymuję komercyjną stronę [**formulasofmotherearth.com**](https://formulasofmotherearth.com).
+
+Niedawno stworzyłem aplikację na iOS o nazwie **Scoliometer**, którą wkrótce oficjalnie opublikuję w **App Store**.
+
+Jestem studentem 4. roku **Politechniki Lubelskiej**.
+
+Tworzę aplikacje internetowe w **Django** oraz mobilne w **SwiftUI**.
+
+Mam również doświadczenie w **.NET**, **Java**, **C++**, **HTML** i **CSS**.
+
+Szukam możliwości współpracy przy **nowych projektach**.
+
+📧 Kontakt: [filipskup@icloud.com](mailto:filipskup@icloud.com)
+
+---
+
+## English
+
+### Hi, I’m Filip
+
+I created and currently maintain the commercial website [**formulasofmotherearth.com**](https://formulasofmotherearth.com).
+
+Recently, I developed an iOS application called **Scoliometer**, which will soon be officially released on the **App Store**.
+
+I’m a 4th-year student at **Lublin University of Technology**.
+
+I develop web applications using **Django** and mobile applications in **SwiftUI**.
+
+Additionally, I have experience with **.NET**, **Java**, **C++**, **HTML**, and **CSS**.
+
+I’m looking to collaborate on **application development projects**.
+
+📧 You can reach me at: [filipskup@icloud.com](mailto:filipskup@icloud.com)
+
+
+---
+
