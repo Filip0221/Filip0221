@@ -8,6 +8,8 @@ Stworzyłem i obecnie utrzymuję komercyjną stronę [**formulasofmotherearth.co
 
 Niedawno stworzyłem aplikację na iOS o nazwie **Scoliometer**, którą wkrótce oficjalnie opublikuję w **App Store**.
 
+Aktualnie pracuje nad **systemem do automatycznej diagnostyki chorób kręgosłupa na podstawie obrazów medycznych** - Praca inżynierska
+
 Jestem studentem 4. roku **Politechniki Lubelskiej**.
 
 Tworzę aplikacje internetowe w **Django** oraz mobilne w **SwiftUI**.
@@ -27,6 +29,8 @@ Szukam możliwości współpracy przy **nowych projektach**.
 I created and currently maintain the commercial website [**formulasofmotherearth.com**](https://formulasofmotherearth.com).
 
 Recently, I developed an iOS application called **Scoliometer**, which will soon be officially released on the **App Store**.
+
+Currently working on a **system for automatic diagnosis of spine diseases based on medical images** - Engineering thesis
 
 I’m a 4th-year student at **Lublin University of Technology**.
 
