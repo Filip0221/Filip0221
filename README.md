@@ -4,7 +4,7 @@
 
 ### Cześć, jestem Filip
 
-Stworzyłem i obecnie utrzymuję komercyjną stronę [**formulasofmotherearth.com**](https://formulasofmotherearth.com).
+Stworzyłem i obecnie utrzymuję komercyjną stronę [**formulasofmotherearth.com**](https://formulasofmotherearth.com) oraz [**autopolsiedlce.pl**](https://autopolsiedlce.pl).
 
 Niedawno stworzyłem aplikację na iOS o nazwie **Scoliometer**, którą wkrótce oficjalnie opublikuję w **App Store**.
 
@@ -18,7 +18,9 @@ Mam również doświadczenie w **.NET**, **Java**, **C++**, **HTML** i **CSS**.
 
 Szukam możliwości współpracy przy **nowych projektach**.
 
-📧 Kontakt: [filipskup@icloud.com](mailto:filipskup@icloud.com)
+**Zapraszam do sprawdzenia mojego portfolio i pozostałych projektów: fstech.pl**
+
+Kontakt: [filipskup@icloud.com](mailto:filipskup@icloud.com)
 
 ---
 
@@ -40,7 +42,9 @@ Additionally, I have experience with **.NET**, **Java**, **C++**, **HTML**, and 
 
 I’m looking to collaborate on **application development projects**.
 
-📧 You can reach me at: [filipskup@icloud.com](mailto:filipskup@icloud.com)
+**Feel free to visit my portfolio and explore my projects: fstech.pl**
+
+You can reach me at: [filipskup@icloud.com](mailto:filipskup@icloud.com)
 
 
 ---
