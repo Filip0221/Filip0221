@@ -4,6 +4,8 @@
 
 ### Cześć, jestem Filip
 
+Posiadam **portfolio**, dostępne pod adresem [**fstech.pl**](https://fstech.pl).
+
 Stworzyłem i obecnie utrzymuję komercyjną stronę [**formulasofmotherearth.com**](https://formulasofmotherearth.com) oraz [**autopolsiedlce.pl**](https://autopolsiedlce.pl).
 
 Niedawno stworzyłem aplikację na iOS o nazwie **Scoliometer**, którą wkrótce oficjalnie opublikuję w **App Store**.
@@ -27,6 +29,8 @@ Kontakt: [filipskup@icloud.com](mailto:filipskup@icloud.com)
 ## English
 
 ### Hi, I’m Filip
+
+I have a **portfolio**, available at [**fstech.pl**](https://fstech.pl).
 
 I created and currently maintain the commercial website [**formulasofmotherearth.com**](https://formulasofmotherearth.com).
 
