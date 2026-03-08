@@ -12,7 +12,7 @@ Niedawno stworzyłem aplikację na iOS o nazwie **Scoliometer**, którą wkrótc
 
 Aktualnie pracuje nad **systemem do automatycznej diagnostyki chorób kręgosłupa na podstawie obrazów medycznych** - Praca inżynierska
 
-Jestem studentem 4. roku **Politechniki Lubelskiej**.
+Jestem absolwentem **Politechniki Lubelskiej** na której uzyskałem tytuł inżyneira z specjalizacją inżyneiria oprogramowania.
 
 Tworzę aplikacje internetowe w **Django** oraz mobilne w **SwiftUI**.
 
@@ -38,7 +38,8 @@ Recently, I developed an iOS application called **Scoliometer**, which will soon
 
 Currently working on a **system for automatic diagnosis of spine diseases based on medical images** - Engineering thesis
 
-I’m a 4th-year student at **Lublin University of Technology**.
+
+I am a graduate of the **Lublin University of Technology**, where I obtained the title of engineer with a specialization in software engineering.
 
 I develop web applications using **Django** and mobile applications in **SwiftUI**.
 
